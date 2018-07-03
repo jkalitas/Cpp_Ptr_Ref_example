@@ -2,7 +2,7 @@
 
 With a simple inheritance example presented on the following diagram:
 
-![](images/class.png | width=100)
+![](https://github.com/jkalitas/Cpp_Ptr_Ref_example/blob/master/images/class.png)
  
 We make use of pointers and references on the main fucntion to display the 
 student information.
