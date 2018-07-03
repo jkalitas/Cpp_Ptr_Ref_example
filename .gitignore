@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Clion stuff
+.DS_Store
+.idea
